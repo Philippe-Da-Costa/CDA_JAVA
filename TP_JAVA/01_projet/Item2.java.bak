@@ -7,6 +7,7 @@ public class Item2 {
 		
 		//ci dessous  le resultat est "1+1=2"
 		System.out.println(a+ " + " +b+ " = " +(a+b));
-		
+		// au cas ou il faut  les gillemets (on sait jamais)
+		System.out.println("""+a+ " + " +b+ " = " +(a+b)+""");
     }
 }

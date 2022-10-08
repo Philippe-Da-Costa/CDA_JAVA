@@ -18,7 +18,7 @@ public class Item5 {
 		 System.out.println();
 		 System.out.println("Affiche un nombre aleatoire ");
 	  for ( int i=1; i<=5; i++ ){
-	  System.out.println((int)(Math.random()*(10)+1));
+	  System.out.println((int) (Math.random()*11));
 	   
 	  }
 	   
