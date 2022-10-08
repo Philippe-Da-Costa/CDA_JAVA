@@ -1,4 +1,4 @@
-Lopezimport java.util.Scanner;
+import java.util.Scanner;
 
 public class Version1{
 	public static void main(String [] args){
