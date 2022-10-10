@@ -2,11 +2,11 @@ import java.util.Scanner;
 public class AfficheTableCalcul {
 
     public static void main(String[] args) {
-        Scanner myObj = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int nbMax;
 
         System.out.println("Enter nombre max");
-        nbMax = myObj.nextInt();
+        nbMax = sc.nextInt();
 
         for (int i=1;i<=nbMax;i++){
             int puissance = (int) Math.pow(i,2);
