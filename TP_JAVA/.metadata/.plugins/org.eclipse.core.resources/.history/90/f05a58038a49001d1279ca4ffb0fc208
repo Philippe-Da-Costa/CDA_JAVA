@@ -1,0 +1,14 @@
+package Darman.part3;
+import java.util.Scanner;
+public class Exo3_05 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int nb1, nb2;
+		System.out.println("Choisir un premier nombre");
+		nb1=sc.nextInt();
+		System.out.println("Choisir un second nombre");
+		nb1=sc.nextInt();
+	}
+	
+
+}

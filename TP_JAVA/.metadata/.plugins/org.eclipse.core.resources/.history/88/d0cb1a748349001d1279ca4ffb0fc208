@@ -1,0 +1,10 @@
+package Darman.part3;
+import java.util.Scanner;
+public class Exo3_04 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int nb;
+		System.out.println("Saisir un nombre");
+		nb=sc.nextInt();
+	}
+}
