@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author filou
- *
- */
-module Darmangeat {
-}
