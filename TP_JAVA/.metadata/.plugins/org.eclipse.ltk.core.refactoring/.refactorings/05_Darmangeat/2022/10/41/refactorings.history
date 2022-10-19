@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;DAMANT.PART03.eXO3801&apos; to &apos;Exo3_01&apos;&#x0D;&#x0A;- Original project: &apos;Darmangeat&apos;&#x0D;&#x0A;- Original element: &apos;DAMANT.PART03.eXO3801&apos;&#x0D;&#x0A;- Renamed element: &apos;DAMANT.PART03.Exo3_01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;eXO3801&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;DAMANT.PART03{eXO3801.java[eXO3801" matchStrategy="1" name="Exo3_01" qualified="false" references="true" similarDeclarations="false" stamp="1665420679108" textual="false" version="1.0"/>
-</session>
